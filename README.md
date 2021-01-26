@@ -1,7 +1,9 @@
 # Tindog: Tinder for dogs
 A responsive landing page featuring full width content, a testimonial carousel, and pricing table.
 
-Preview: http://htmlpreview.github.io/?https://github.com/hagenderouen/tindog/blob/master/index.html
+<img src="images/tindog-preview.png" style="height: 300px"/>
+
+[View live](#)
 
 ## Built With:
 * [Bootstrap](https://getbootstrap.com/)
