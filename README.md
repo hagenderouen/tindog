@@ -3,7 +3,7 @@ A responsive landing page featuring full width content, a testimonial carousel, 
 
 <img src="images/tindog-preview.png" style="height: 300px"/>
 
-[View live](#)
+[View live](https://hagenderouen.github.io/tindog/)
 
 ## Built With:
 * [Bootstrap](https://getbootstrap.com/)
